@@ -1,1 +1,1 @@
-# SlashAndClear
+# Matlab code used for model fitting and intervention simulations in "Accelerating river blindness elimination by supplementing MDA with a vegetation “slash and clear” vector control strategy: a data-driven modeling analysis" 
